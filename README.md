@@ -17,3 +17,9 @@ access_key_secret=''
 ```
 
 注意，在脚本运行前请确认你的阿里云账号余额有24元的资金，否则订单会处理失败。
+
+
+
+阿里云轻量服务接入点 地区api查询
+
+https://help.aliyun.com/zh/simple-application-server/developer-reference/api-swas-open-2020-06-01-endpoint?spm=a2c4g.11174283.0.i3
